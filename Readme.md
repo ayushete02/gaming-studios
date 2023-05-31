@@ -1,4 +1,4 @@
-# Introduction
+# TrustPoint
 Trustpoint is a decentralized application that enables organizations and celebrities to come together and create deals. The Trustpoint dApp allows organizations to view registered celebrities and negotiate deals with them. After creating a deal, a new ERC 1155 NFT is created with the provided metadata, and the organization can mint this NFT to anyone.
 
 # Flow 
