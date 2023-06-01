@@ -4,7 +4,7 @@ export default function Footer() {
       <img
         src="/images/brand-name.png"
         alt="Trustpoint-footer-brand-identity"
-        className="w-9/12 brightness-0 invert opacity-[16%]"
+        className="w-9/12 brightness-0 invert opacity-[17%]"
       />
     </footer>
   );

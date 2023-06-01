@@ -16,9 +16,9 @@ export default function Navbar() {
   const navigate = useNavigate();
 
   const navLinks = [
-    { name: "Celebs", to: "/celebrities" },
-    { name: "Help", to: "/help" },
-    { name: "About", to: "/about" },
+    { name: "CELEBS", to: "/celebrities" },
+    { name: "HELP", to: "/help" },
+    { name: "ABOUT", to: "/about" },
   ];
 
   async function connect() {
@@ -131,7 +131,7 @@ export default function Navbar() {
               onClick={connect}
               className="bg-primary py-1 px-8 rounded-xl font-medium text-lg text-back duration-500 hover:bg-secondary"
             >
-              Join now
+              JOIN NOW
             </button>
           )}
         </div>

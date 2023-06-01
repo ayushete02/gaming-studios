@@ -56,7 +56,7 @@ export default function LandingPage() {
             {"NFT Collaborations Made Easy".toLocaleUpperCase()}
           </div>
           <h1 className="text-7xl font-semibold">
-            Effortless NFT Collaborations
+            EFFORTLESS NFT COLLABORATIONS
           </h1>
           <p className="text-xl text-front text-opacity-80">
             TrustPoint's platform streamlines the process of creating NFT
