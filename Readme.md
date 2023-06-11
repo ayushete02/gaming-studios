@@ -7,13 +7,12 @@
 
 <h1 align="center">TrustPoint</h1>
 
-[Demo](https://youtu.be/xo0mBpDjMbA) * [Backend](https://github.com/ayushete02/gaming-studios/tree/master/Backend) * [Frontend](https://github.com/ayushete02/gaming-studios/tree/master/Frontend) * [SmartContract](https://github.com/ayushete02/gaming-studios/tree/master/Smart-Contract)
 
 <div align="center">
   
 Connecting Stars and Studios: TrustPoint - The Decentralized Deal-Making Platform
 
-
+[Demo](https://youtu.be/xo0mBpDjMbA) * [Backend](https://github.com/ayushete02/gaming-studios/tree/master/Backend) * [Frontend](https://github.com/ayushete02/gaming-studios/tree/master/Frontend) * [SmartContract](https://github.com/ayushete02/gaming-studios/tree/master/Smart-Contract)
 
 Trustpoint is a decentralized application that enables organizations and celebrities to come together and create deals. The Trustpoint dApp allows organizations to view registered celebrities and negotiate deals with them. After creating a deal, a new ERC 1155 NFT is created with the provided metadata, and the organization can mint this NFT to anyone.
 
