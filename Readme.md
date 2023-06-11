@@ -1,6 +1,8 @@
 # TrustPoint
 Trustpoint is a decentralized application that enables organizations and celebrities to come together and create deals. The Trustpoint dApp allows organizations to view registered celebrities and negotiate deals with them. After creating a deal, a new ERC 1155 NFT is created with the provided metadata, and the organization can mint this NFT to anyone.
 
+![Firefly Trustpoint is a decentralized software that enables organizations and celebrities to come to](https://github.com/ayushete02/gaming-studios/assets/75811912/633e1101-9c58-4f9b-9272-e74c2ace3fd3)
+
 # The problem TrustPoint solves
 Trustpoint is a project that aims to decentralize and streamline the process of creating deals between gaming studios and celebrities by using smart contracts. Currently, the system for creating deals between gaming studios and celebrities is centralized (on paper), which can be costly, inefficient, and slow. Trustpoint's approach seeks to eliminate intermediaries and increase efficiency by using smart contracts to automate the process.
 
