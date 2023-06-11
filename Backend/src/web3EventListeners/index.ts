@@ -35,6 +35,12 @@ const logger = new ethers.Contract(
   provider
 ) as Logger;
 
+const loggerdeal = new ethers.Contract(
+  LOGGER_CONTRACT_ADDRESS,
+  LOGGER_ABI,
+  provider
+) as Logger;
+
 export default async function web3EventListeners() {
   await dealControllerEventListeners(dealController);
   await organizationControllerEventListeners(organizationController);
