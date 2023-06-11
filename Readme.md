@@ -7,6 +7,8 @@
 
 <h1 align="center">TrustPoint</h1>
 
+[Demo](https://youtu.be/xo0mBpDjMbA) * Backend * Frontend * SmartContract
+
 <div align="center">
   
 Connecting Stars and Studios: TrustPoint - The Decentralized Deal-Making Platform
