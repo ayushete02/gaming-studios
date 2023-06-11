@@ -7,7 +7,7 @@
 
 <h1 align="center">TrustPoint</h1>
 
-[Demo](https://youtu.be/xo0mBpDjMbA) * Backend * Frontend * SmartContract
+[Demo](https://youtu.be/xo0mBpDjMbA) * [Backend](https://github.com/ayushete02/gaming-studios/tree/master/Backend) * [Frontend](https://github.com/ayushete02/gaming-studios/tree/master/Frontend) * [SmartContract](https://github.com/ayushete02/gaming-studios/tree/master/Smart-Contract)
 
 <div align="center">
   
