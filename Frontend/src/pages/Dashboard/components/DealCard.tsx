@@ -34,7 +34,7 @@ function DealCard({
         <p>Royalty : {deal.nfts[0].royaltyBasisPoints / 100} %</p>
         <Link to={`/deal/${0}`} className="btn-3 px-3 py-2 mt-3">
           {" "}
-          View Details{" "}
+          View All Details{" "}
         </Link>
       </div>
     </div>

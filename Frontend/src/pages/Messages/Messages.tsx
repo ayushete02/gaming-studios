@@ -142,13 +142,13 @@ export default function Messages() {
         </div>
       ) : (
         <div className="h-screen flex flex-col text-center justify-center items-center text-front italic text-2xl gap-y-3 font-light">
-          you have no messages <br />
+          you have no messages!! <br />
           please initiate a chat first <br />
           <Link
             to="/celebrities"
             className="my-4 border-b border-primary font-extralight tracking-tighter duration-300 hover:border-opacity-0"
           >
-            click here to see all available celebs to chat with
+            click here to see all available celebs to chat with them
           </Link>
         </div>
       )}
