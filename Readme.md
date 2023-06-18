@@ -30,10 +30,10 @@ Overall, Trustpoint's approach has the potential to revolutionize the way that d
 # Challenges we ran into
 NFT event indexing issue: Every organization has a different NFT contract to ensure that NFTs do not appear under one single collection on marketplaces like OpenSea. To address this issue, we created a structure where one NFT contract is associated with only one organization. However, this created a lot of NFT contracts, and we needed a lot of event listeners to index them. To address this issue, we created a smart contract called Logger that logs all events of all these different contracts under one single contract.
 
-# Unsolved Challenges:
+## Unsolved Challenges:
 Polygon id name field: We wanted to verify the celebrities to confirm that they were who they claimed to be by using Polygon ID. However, the Polygon ID protocol only allowed us to verify their date of birth, which created possible concerns. We were unable to verify the names of the verifier.
 
-# Future Prospects:
+## Future Prospects:
 ID Verification: Trustpoint aims to add some Zero knowledge way to confirm that the celebrity is who they claim to be.
 Multiple NFT support: As of now, Trustpoint only supports one NFT per deal, which means a game company can only have one NFT per celebrity. We will soon be adding support for multiple NFT deals between two parties.
 
